@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Canevari! 👋
 
-De estudante de tecnologia, estou atualmente em transição de carreira para a área de TI. Sou acadêmico de Ciência da Computação e focado em construir soluções eficientes, transitando entre o desenvolvimento de software e a análise de dados.
+Sou estudante de tecnologia, estou atualmente em transição de carreira para a área de TI. Sou acadêmico de Ciência da Computação e focado em construir soluções eficientes, transitando entre o desenvolvimento de software e a análise de dados.
 
 ---
 
