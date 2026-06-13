@@ -32,7 +32,7 @@ Sou estudante de tecnologia, estou atualmente em transição de carreira para a 
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](linkedin.com/in/matheus-canevari)
+- 💼 [LinkedIn](www.linkedin.com/in/matheus-canevari)
 - 📧 [E-mail](matheuscandido888@gmail.com)
 
 ---
